@@ -4,4 +4,4 @@
 Unity graphics programing
 
 ## Unity Editor version
-Unity2018.1.0b13 ~
+Unity2018.1.0f2 ~
