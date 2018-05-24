@@ -1,4 +1,4 @@
-﻿Shader "Unlit/BrownMotion"
+﻿Shader "Custom/BrownMotion"
 {
 	Properties
 	{
