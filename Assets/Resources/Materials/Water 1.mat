@@ -6,8 +6,8 @@ Material:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: Water
-  m_Shader: {fileID: 4800000, guid: 4ca5d3e6bd9acfc4bb96a57283cf1f3c, type: 3}
+  m_Name: Water 1
+  m_Shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -34,16 +34,12 @@ Material:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
-    - _DispTex:
-        m_Texture: {fileID: 0}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
     - _EmissionMap:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 0}
+        m_Texture: {fileID: 8600000, guid: 35e965dd69f11a44ca5dcd2cc28907ee, type: 2}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MetallicGlossMap:
@@ -59,28 +55,20 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:
-    - _Atten: 0.9999
     - _BumpScale: 1
     - _Cutoff: 0.5
-    - _DeltaUV: 3
     - _DetailNormalMapScale: 1
-    - _Displacement: 0.3
     - _DstBlend: 0
     - _GlossMapScale: 1
     - _Glossiness: 0.5
     - _GlossyReflections: 1
-    - _MaxDist: 25
     - _Metallic: 0
-    - _MinDist: 10
     - _Mode: 0
     - _OcclusionStrength: 1
     - _Parallax: 0.02
-    - _S2: 0.4
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
     - _SrcBlend: 1
-    - _Strength: 1
-    - _TessFactor: 10
     - _UVSec: 0
     - _ZWrite: 1
     m_Colors:
